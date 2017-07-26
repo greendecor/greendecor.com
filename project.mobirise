@@ -1225,6 +1225,19 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-1l",
           "_params": {
             "parallax": true,
@@ -1247,20 +1260,7 @@
           },
           "title": "<br>&nbsp; &nbsp;Green Décor",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;This is a way to express crativity, <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;to see the extraordinary in ordinary <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;elements, and to create from your <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; heart with your hands!<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
           "_name": "footer1",
